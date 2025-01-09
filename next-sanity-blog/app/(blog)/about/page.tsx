@@ -8,7 +8,7 @@ const About = () => {
       {/* Left Section for Image */}
       <div className="w-full md:w-1/2 flex justify-center">
         <Image width={1000} height={1000}
-          src="/MIR SA.jpg" // Replace this with your image path
+          src="/mir.jpg" // Replace this with your image path
           alt="MIR ATIF SA"
           className="rounded-md h-3/4 w-3/4"
         />
